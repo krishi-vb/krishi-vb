@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Krishi V Bhat
+### Hi 👋 My name is Krishi V Bhat
 
 
 
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/krishi-vb/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px"></a>
-<a href="https://krishi-vb.dev/" target="_blank"><img src="https://i.imgur.com/O8irAoL.jpg" width="170px" height="28px"></a>
+<a href="https://krishi-vb.dev/" target="_blank"><img src="https://i.imgur.com/EzWuCa4.png" height="28px" style="border:16px solid black"></a>
 </p>
