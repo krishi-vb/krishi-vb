@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 </p>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com){:target="blank"}
