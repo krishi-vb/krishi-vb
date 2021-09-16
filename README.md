@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 </p>
 
 [go](http://stackoverflow.com){target="blank"}
+
+[Google](https://google.com" target="_blank)
