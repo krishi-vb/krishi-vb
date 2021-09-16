@@ -1,4 +1,4 @@
-### Hi 👋 My name is Krishi V Bhat
+### <p align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 25px"> My name is Krishi V Bhat </p>
 
 
 
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/krishi-vb/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px"></a>
+<a href="https://www.linkedin.com/in/krishi-vb/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30px" height="28px"></a>
 <a href="https://krishi-vb.dev/" target="_blank"><img src="https://i.imgur.com/EzWuCa4.png" height="28px" style="border:16px solid black"></a>
 </p>
