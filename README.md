@@ -1,4 +1,4 @@
-### <p align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 25px"> My name is Krishi V Bhat </p>
+### <p align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 25px"> My name is Krishi </p>
 
 
 
