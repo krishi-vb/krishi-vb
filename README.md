@@ -1,6 +1,6 @@
 ### <p> Hello, folks! <img src="./resources/wave.gif" style="width: 30px"> </p>
 <hr>
-<p align="center">My name is Krishi and I am a Frontend Developer and working my way up into Fullstack</p>
+<p>My name is Krishi and I am a Frontend Developer and working my way up into Fullstack</p>
 
 
 
