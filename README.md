@@ -1,4 +1,4 @@
-### <p> Hi there <img src="./resources/wave.gif" style="width: 30px"> </p>
+### <p> Hello, folks! <img src="./resources/wave.gif" style="width: 30px"> </p>
 <hr>
 <p align="center">My name is Krishi</p>
 
