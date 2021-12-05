@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=krishi-vb.visitor-badge"></p>
+<img src="./resources/wave.gif" style="width: 25px">
 
 
 <p align="center">
