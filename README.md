@@ -1,5 +1,5 @@
 ### <p align="center"> Hi there <img src="./resources/wave.gif" style="width: 30px"> </p>
-<p align="center">My name is Krishi</p>
+### <p align="center">My name is Krishi</p>
 
 
 
