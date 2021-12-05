@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=krishi-vb.visitor-badge"></p>
 
 
 <p align="center">
