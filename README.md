@@ -1,4 +1,4 @@
-### <p align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="width: 25px"> My name is Krishi </p>
+### <p align="center"> Hi there <img src="./resources/wave.gif" style="width: 30px"> My name is Krishi </p>
 
 
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=krishi-vb.visitor-badge"></p>
-<img src="./resources/wave.gif" style="width: 25px">
+
 
 
 <p align="center">
