@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>This page is a work in progress, so is my portfolio website</p> <br> <p> I'd be happy to connect with you on LinkedIn. Find the link below </p>
-
-
-
-
-
+<p>This page is a work in progress, so is my portfolio website</p><p> I'd be happy to connect with you on LinkedIn. Find the link below </p>
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=krishi-vb.visitor-badge"></p>
 
