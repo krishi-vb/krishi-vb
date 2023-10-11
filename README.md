@@ -1,6 +1,5 @@
-### <p> Hello, folks! </p>
-<hr>
-<p>My name is Krishi and I am a Frontend Developer. </p>
+<p> Hello, folks! </p>
+<p> My name is Krishi and I am a Frontend Developer. </p>
 
 
 
