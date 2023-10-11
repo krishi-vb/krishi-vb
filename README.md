@@ -1,4 +1,4 @@
-### <p> Hello, folks! <img src="./resources/wave.gif" style="width: 30px"> </p>
+### <p> Hello, folks! </p>
 <hr>
 <p>My name is Krishi and I am a Frontend Developer. </p>
 
